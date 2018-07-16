@@ -1,0 +1,4 @@
+﻿  BSTSystem.cpp
+e:\workfile\c++\项目\bstree\bstree\bstree.h(77): warning C4715: “BSTree<int>::Insert”: 不是所有的控件路径都返回值
+  BSTree.vcxproj -> E:\workfile\C++\项目\BSTree\Debug\BSTree.exe
+  BSTree.vcxproj -> E:\workfile\C++\项目\BSTree\Debug\BSTree.pdb (Full PDB)
